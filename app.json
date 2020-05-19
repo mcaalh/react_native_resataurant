@@ -25,7 +25,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.mcaalh.restaurant",
       "config": {
-        "googleMapsApiKey": "AIzaSyCdguewVzOvH9BCChgfQH72gLq4AOIsxXs"
+        "googleMapsApiKey": "_put_your_api_token"
       }
     }
   }
