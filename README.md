@@ -1,5 +1,5 @@
 # restaurant react native
-"Resaturants" project is a react native app builds to consum some API (like yelp).
+"Restaurants" project is a react native app builds to consum some API (like yelp).
 It includes splash screen create with Lottie and navigation workflow using 'react navigation v5' and some contexts.
 
 ### Prerequisites
